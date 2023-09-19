@@ -1,0 +1,21 @@
+20 17 3
+xxxxxxxxwxxxxxxxx
+XwwxwwwxwxwwwxwwX
+xwwxwwwxwxwwwxwwx
+xxxxxxxxxxxxxxxxx
+xwwxwxxwwwxxwxwwx
+xxxxwwxxwxxwwxxxx
+wwwxwxxxxxxxwxwww
+wwwxxxwwSwwxxxwww
+wwwxwxw   wxwxwww
+PxxxwxwwwwwxwxxxP
+wwwxwxxxpxxxwxwww
+wwwxwxwwwwwxwxwww
+wwwxxxxwwwxxxxwww
+xxxxwwxwwwxwwxxxx
+xwwxwwxwwwxwwxwwx
+XxwxxxxxxxxxxxwxX
+wxwxwxwwwwwxwxwxw
+xxxxwxxwwwxxwxxxx
+wwxwwwxwwwxwwwxww
+xxxxxxxxxxxxxxxxx
